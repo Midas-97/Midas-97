@@ -1,4 +1,6 @@
-## Olá, eu sou a Pedro Oliveira, criador de conteúdo de programação e Designer Grafico!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+eu+sou+o+Pedro+Oliveira)](https://git.io/typing-svg) 
+
+## criador de conteúdo de programação e Designer Grafico!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midas-97&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-97&layout=compact&theme=radical)
 
