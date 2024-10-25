@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c83775&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+eu+sou+o+Pedro+Oliveira)](https://git.io/typing-svg) 
 
-## criador de conteúdo de programação e Designer Grafico!
+## criador de conteúdo de Programação e Designer Grafico!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midas-97&show=reviews,prs_merged&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-97&theme=radical)
 
