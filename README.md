@@ -4,7 +4,7 @@
 
 ## criador de conteúdo de Programação e Designer Grafico!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-97&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midas-97&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-97&theme=radical)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Midas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
