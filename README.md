@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c83775&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c83775&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+eu+sou+o+Pedro+Oliveira)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c83775&size=35&center=true&vCenter=true&width=1000&lines=+Hello,+I'm+Pedro+Oliveira)](https://git.io/typing-svg) 
 
-## criador de conteúdo de Programação e Designer Grafico!
+## Programming content creator and Graphic Designer!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Midas-97&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Midas-97&theme=radical)
 
@@ -29,7 +29,7 @@
     
   ## 
   
-## Sobre Mim
+## About Me
 
 👋 Hello! I'm a beginner developer and graphic designer with 5 years of experience creating impactful visual content. Throughout my career, I've worked with renowned brands, including CSN, Heineken, and Movecta. I have experience in visual design for websites and social media, as well as a strong specialization in RPG content, ranging from book layout and typesetting to complete visual development for immersion in the gaming universe.
 
