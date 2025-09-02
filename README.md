@@ -31,17 +31,17 @@
   
 ## Sobre Mim
 
-👋 Olá! Sou um desenvolvedor iniciante e designer gráfico com 5 anos de experiência, atuando na criação de conteúdos visuais impactantes. Ao longo da minha jornada, trabalhei com marcas de renome, incluindo CSN, Heineken e Movecta. Tenho experiência em design visual para sites e mídias sociais, bem como uma forte especialização em conteúdo de RPG, que vai desde a diagramação e digitação de livros até o desenvolvimento visual completo para imersão no universo dos jogos.
+👋 Hello! I'm a beginner developer and graphic designer with 5 years of experience creating impactful visual content. Throughout my career, I've worked with renowned brands, including CSN, Heineken, and Movecta. I have experience in visual design for websites and social media, as well as a strong specialization in RPG content, ranging from book layout and typesetting to complete visual development for immersion in the gaming universe.
 
-📌 Habilidades:
+📌 Skills:
 
-Design gráfico profissional (branding, identidade visual e design de sites)
-Conteúdos especializados para RPG, incluindo livros, personagens e ambientação visual
-Desenvolvimento básico em programação, aprimorando habilidades para ampliar minha atuação
+Professional graphic design (branding, visual identity, and website design)
+Specialized content for RPGs, including books, characters, and visual settings
+Basic programming development, honing skills to expand my reach
 
-🚀 Objetivo: 
+🚀 Objective:
 
-Continuar aprendendo e aplicando programação em projetos gráficos e de RPG, buscando criar experiências visuais e interativas cada vez mais completas e envolventes.
+Continue learning and applying programming to graphic and RPG projects, striving to create increasingly complete and engaging visual and interactive experiences.
     
   ## 
   
